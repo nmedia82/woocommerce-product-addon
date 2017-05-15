@@ -1,0 +1,274 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:140
+msgid " of the following matches"
+msgstr ""
+
+#. Text in function
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:140
+msgid "&laquo; Existing Product Meta"
+msgstr ""
+
+#. Text in function
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:140
+msgid "All"
+msgstr ""
+
+#. Text in function
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:140
+msgid "Any"
+msgstr ""
+
+#. Text in echo
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:137
+msgid "Are you sure to remove this input field?"
+msgstr ""
+
+#. Text in echo
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:133
+msgid "Are you sure?"
+msgstr ""
+
+#. Text in echo
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:49
+msgid "Aviary API Key (Photo Editing)"
+msgstr ""
+
+#. Text in function
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/get-addon.php:1
+msgid "Best Photo Editing Tool"
+msgstr ""
+
+#. Text in echo
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:60
+msgid "Buy this Add-on"
+msgstr ""
+
+#. Text in echo
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/existing-meta.php:42
+msgid "Clone"
+msgstr ""
+
+#. Text in echo
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:113
+msgid "Collapse all"
+msgstr ""
+
+#. Text in echo
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/existing-meta.php:27
+msgid "Delete."
+msgstr ""
+
+#. Text in function
+#: nm-woocommerce-personalized-product-v3.6/classes/inputs/input.file.php:447
+msgid "Drag file(s) in this box"
+msgstr ""
+
+#. Text in function
+#: nm-woocommerce-personalized-product-v3.6/classes/inputs/input.file.php:447
+msgid "Drag file(s) or directory in this box"
+msgstr ""
+
+#. Text in echo
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:111
+msgid "Drage form fields here"
+msgstr ""
+
+#. Text in echo
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/existing-meta.php:41
+msgid "Edit"
+msgstr ""
+
+#. Text in echo
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:56
+msgid "Enter Aviary API Key."
+msgstr ""
+
+#. Text in function
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/existing-meta.php:1
+msgid "Existing Product Meta"
+msgstr ""
+
+#. Text in echo
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:115
+msgid "Expand all"
+msgstr ""
+
+#. Text in echo
+#: nm-woocommerce-personalized-product-v3.6/templates/render.email.php:139
+msgid "File(s) are attached"
+msgstr ""
+
+#. Text in echo
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:44
+msgid "For your reference"
+msgstr ""
+
+#. Text in echo
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:70
+msgid "Form styling/css"
+msgstr ""
+
+#. Text in echo
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:72
+msgid "Form styling/css."
+msgstr ""
+
+#. Text in function
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/get-addon.php:1
+msgid "Get Pro + Addon"
+msgstr ""
+
+#. Text in function
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:140
+msgid "Hide"
+msgstr ""
+
+#. Text in echo
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:50
+msgid "Learn about Aviary"
+msgstr ""
+
+#. Text in echo
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:41
+msgid "Meta group name"
+msgstr ""
+
+#. Text in echo
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/existing-meta.php:17
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/existing-meta.php:25
+msgid "Meta."
+msgstr ""
+
+#. Text in echo
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/existing-meta.php:16
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/existing-meta.php:24
+msgid "Name."
+msgstr ""
+
+#. Text in echo
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:28
+msgid "Product Meta Basic Settings"
+msgstr ""
+
+#. Text in echo
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:29
+msgid "Product Meta Fields"
+msgstr ""
+
+#. Text in echo
+#: nm-woocommerce-personalized-product-v3.6/classes/plugin.class.php:294
+#: nm-woocommerce-personalized-product-v3.6/classes/plugin.class.php:295
+msgid "Remove Meta"
+msgstr ""
+
+#. Text in function
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:140
+msgid "Rule # "
+msgstr ""
+
+#. Text in echo
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:31
+msgid "Save settings"
+msgstr ""
+
+#. Text in echo
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:61
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/get-addon.php:1
+msgid "See Demo"
+msgstr ""
+
+#. Text in function
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:140
+msgid "Select/Upload Image"
+msgstr ""
+
+#. Text in echo
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/settings.php:197
+msgid "Setting settings"
+msgstr ""
+
+#. Text in echo
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/existing-meta.php:26
+msgid "Shortcode."
+msgstr ""
+
+#. Text in function
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:140
+msgid "Show"
+msgstr ""
+
+#. Text in function
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/get-addon.php:1
+msgid "This plugin can be used as best Photo Editing Tool to allow your users to upload and Edit Photos online using world\\'s best Photo Editor \\'Aviary\\'. There is an Add-on for this"
+msgstr ""
+
+#. Text in function
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/get-addon.php:1
+msgid "What is Aviary?"
+msgstr ""
+
+#. Text in echo
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:57
+msgid "You need to get your API key from Aviary to use this. It is free as long as you need paid features"
+msgstr ""
+
+#. Text in echo
+#: nm-woocommerce-personalized-product-v3.6/classes/inputs/input.file.php:269
+msgid "are you sure to delete this file?"
+msgstr ""
+
+#. Text in function
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:140
+msgid "greater then"
+msgstr ""
+
+#. Text in function
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:140
+msgid "is"
+msgstr ""
+
+#. Text in function
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:140
+msgid "less then"
+msgstr ""
+
+#. Text in function
+#: nm-woocommerce-personalized-product-v3.6/classes/plugin.class.php:285
+#: nm-woocommerce-personalized-product-v3.6/classes/plugin.class.php:286
+msgid "nm_action_%d"
+msgstr ""
+
+#. Text in function
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:140
+msgid "not"
+msgstr ""
+
+#. Text in function
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:140
+msgid "only if"
+msgstr ""
+
+#. Text in function
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:140
+msgid "option"
+msgstr ""
+
+#. Text in function
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:140
+msgid "price (if any)"
+msgstr ""
+
+#. Text in echo
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/existing-meta.php:18
+msgid "productmeta."
+msgstr ""
+
+#. Text in echo
+#: nm-woocommerce-personalized-product-v3.6/templates/admin/create-form.php:82
+msgid "select input type below and drag it on right side. Then set more options"
+msgstr ""
